@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 - 🔭 I’m currently working on an independant game development project where I tackle some interesting algorithms for terrain development.
 - 🌱 I’m currently learning C# and how to be a DevOps engineer.
@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwprichard)](https://github.com/anuraghazra/github-readme-stats)
-\n
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwprichard)](https://github.com/anuraghazra/github-readme-stats)  
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwprichard&show_icons=true&theme=gradient)
