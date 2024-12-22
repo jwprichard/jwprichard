@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/Huntorious?theme=unicorn)
+![](https://leetcard.jacoblin.cool/Huntorious?theme=unicorn&extension=activity)
