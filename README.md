@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on an independant game development project where I tackle some interesting algorithms for terrain development.
 - 🌱 I’m currently learning C# and how to be a DevOps engineer.
 - 👯 I’m looking to collaborate on an interesting API idea, get in touch with me 😀.
-- 📫 You can reach me on twitter, @JW_Prichard.
 
 ## Contacts
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-prichard-qut-jwp/ "Joshua Prichard LinkedIn")
