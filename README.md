@@ -1,8 +1,8 @@
 # Hey 👋
 
-🔭 I’m currently working as a Software Developer, building APIs, microservices, and automation tools using .NET and Azure.
-🌱 I’m expanding my skills in DevOps, cloud infrastructure (Terraform, Azure DevOps), and modern CI/CD practices.
-👯 I’m looking to collaborate on interesting backend or tooling projects — get in touch! 😀
+- 🔭 I’m currently working as a Software Developer, building APIs, microservices, and automation tools using .NET and Azure.
+- 🌱 I’m expanding my skills in DevOps, cloud infrastructure (Terraform, Azure DevOps), and modern CI/CD practices.
+- 👯 I’m looking to collaborate on interesting backend or tooling projects — get in touch! 😀
 
 ## Contacts
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-prichard-qut-jwp/ "Joshua Prichard LinkedIn")
